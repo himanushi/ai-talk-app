@@ -1,0 +1,11 @@
+{
+  "appId": "net.himakan.app.aitalk",
+  "appName": "AI Talk",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
